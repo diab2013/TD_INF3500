@@ -1,0 +1,5 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Failure: La simulation est terminee.
+Time: 640 ns  Iteration: 0  Process: /sha256_compression_tb/line__838  File: X:/Bureau/INF3500/TD1/TD1.srcs/sources_1/new/compression_tb.vhd
+$finish called at time : 640 ns : File "X:/Bureau/INF3500/TD1/TD1.srcs/sources_1/new/compression_tb.vhd" Line 863

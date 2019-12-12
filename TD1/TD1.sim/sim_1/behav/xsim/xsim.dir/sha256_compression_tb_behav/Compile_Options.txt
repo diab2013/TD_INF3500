@@ -1,0 +1,1 @@
+-wto "6fe7195d99ce471a93cb896e940f3f41" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "sha256_compression_tb_behav" "xil_defaultlib.sha256_compression_tb" -log "elaborate.log" 
